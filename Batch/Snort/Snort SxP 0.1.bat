@@ -1,0 +1,1 @@
+snort -C c:\snort\etc\snort.conf -A console -i5
